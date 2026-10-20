@@ -25,17 +25,11 @@ Well, it wasn't as plug n play as the arduino mega builds we all have seen with 
 
 I had to go through multiple files and configuration before, the setup became errorless. 
 
-U can download the marlin software from either its original repository or can get the **Fixed** edition from this repository along with config, board and pins files.
+U can get the software from the original MARLIN website. 
 
-But then U would have to download VS Code, install Platformio and then build the package.. 
+** OR **
 
-***OR*** 
-
-You can get the final build .uf2 file from this repo and just flash it on your raspberry pi pico. 
-
-If u are doing the second way, rememeber, to keep the wiring exactly as have kept it. 
-
-
+U can download the already configured version in this repo
 
 <h3> Pronterface</h3> 
 
