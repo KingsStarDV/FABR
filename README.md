@@ -88,3 +88,13 @@ python -m pip install -r requirements.txt
 5) Open Orcaslicer, and click prepare tab the import a 3d model (stp). Click Export G-code, which saves a .gcode file.
 
 6) Open pronterface and connect to pi pico. Then Upload this gcode file and start printing.
+
+   <h1> Credits </h1>
+
+Big thanks to the people who made the free tools i used-
+- Marlin, for the firmware that moves the motors
+- Pronterface (Printrun), for sending the gcode to the printer
+- OrcaSlicer, for slicing the models
+- Fusion 360, for the CAD design
+
+All the designs and the wiring are made by me.
