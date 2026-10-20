@@ -1,0 +1,18 @@
+X endstop      = GP3
+Y endstop      = GP4
+Z endstop      = GP5
+
+X STEP         = GP17
+X DIR          = GP16
+Y STEP         = GP18
+Y DIR          = GP19
+Z STEP         = GP20
+Z DIR          = GP21
+E STEP         = GP15
+E DIR          = GP14
+
+no en pin onnected (all to gnd)
+
+Hotend heater (MOSFET gate) = GP6
+Thermistor     = GP26  (must be GP26, GP27 or GP28)|
+No hotbed
