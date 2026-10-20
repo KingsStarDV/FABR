@@ -35,7 +35,7 @@ this is a firmware, which generates gcode for 3d printing..
 
 Run the .exe file inside of firmware and install ORCASLICER. 
 
-Open ocraslicer after installation and then for the setup, choose **GENERIC MARLIN PRINTER** and proceed. 
+Open orcaslicer after installation and then for the setup, choose **GENERIC MARLIN PRINTER** and proceed. 
 
 
 <h3> Marlin </h3>
@@ -85,6 +85,6 @@ python -m pip install -r requirements.txt
 
 4) Connect raspberry pi pico to computer and flash the .uf2 file.
 
-5) Open Ocraslicer, and click prepare tab the import a 3d model (stp). Click Export G-code, which saves a .gcode file.
+5) Open Orcaslicer, and click prepare tab the import a 3d model (stp). Click Export G-code, which saves a .gcode file.
 
 6) Open pronterface and connect to pi pico. Then Upload this gcode file and start printing.
