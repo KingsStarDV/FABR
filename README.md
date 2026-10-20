@@ -33,7 +33,8 @@ For the wiring, either u can follow this diagram, or see the txt file inside ele
 
 this is a firmware, which generates gcode for 3d printing.. 
 
-Run the .exe file inside of firmware and install ORCASLICER. 
+You can download any slicer application, but i m using orcaslicer. 
+download orcaslicer from their original website. then install the .exe file.
 
 Open orcaslicer after installation and then for the setup, choose **GENERIC MARLIN PRINTER** and proceed. 
 
