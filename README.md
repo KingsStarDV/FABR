@@ -85,7 +85,7 @@ python -m pip install -r requirements.txt
 
 4) Connect raspberry pi pico to computer and flash the .uf2 file.
 
-5) Open Orcaslicer, and click prepare tab the import a 3d model (stp). Click Export G-code, which saves a .gcode file.
+5) Open Orcaslicer, and click prepare tab the import a 3d model (stl). Click Export G-code, which saves a .gcode file.
 
 6) Open pronterface and connect to pi pico. Then Upload this gcode file and start printing.
 
