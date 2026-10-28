@@ -1,4 +1,5 @@
-<img width="1920" height="616" alt="325ba0f1-53e9-48e7-aa71-8d3992a2570e" src="https://github.com/user-attachments/assets/81b09b63-ec01-445e-96e0-018c80e41ce4" />
+<img width="1920" height="616" alt="Assembly Render" src="https://github.com/user-attachments/assets/72255bde-f43a-4bb9-835a-974deb6745cc" />
+
 
 
 
@@ -20,7 +21,6 @@ Well this is a cartesian 3d printer. It is designed to be simple and requires on
 
 
 
-<img width="404" height="350" alt="Screenshot 2026-10-20 082758" src="https://github.com/user-attachments/assets/092d3f86-d01f-475a-8bf0-30092fc4521f" />
 
 <h1>Wiring </h1>
 
@@ -117,7 +117,10 @@ python -m pip install -r requirements.txt
 | M4 Screws | 10 | ----- | 2.8 | 28 | 0.336 | [Link](https://onlyscrews.in/products/chhd-m4-x-20mm-pack-of-20) |
 | M1.6 Screws | 4 | -------- | 6 | 24 | 0.288 | [Link](https://onlyscrews.in/products/m1-6-x-8mm-hex-allen-socket-head-ss-304-screw-dia-1-6mm-length-8mm) |
 | M4 60mm Screw | 5 | -----For the Rod holders-- | 13 | 65 | 0.78 | [Link](https://onlyscrews.in/products/m4-x-60mm-hex-allen-csk-high-tensile10-9-black-oxide-screw-dia-4mm-length-60mm?currency=INR&country=IN&variant=51646428610873&stkn=6e84ebfba1b8&utm_source=google&utm_medium=cpc&utm_campaign=googleads_22229903987&utm_id=22229903987&utm_adgroup=&utm_assetgroup=6594506010&utm_content=ad_&utm_term=&utm_matchtype=&utm_device=c&utm_network=x&gad_source=1&gad_campaignid=22229905346&gbraid=0AAAAA9sP2STCYqm-T1mOluwh962mWXq9b&gclid=CjwKCAjwxeHWBhBPEiwAiqtQ-UqFHHbmBaecY9lDXtWx4HTUm7VEGcAA8XPEOmMAzyY7xN4zs50sYxoCdB0QAvD_BwE) |
+| M3 8mm | 14 | ---for stepper motor | 1.2 | 16.8 | 0.2016 | [Link](https://onlyscrews.in/products/m3-x-6mm-phillips-csk-ss-304-screw-dia-3mm-length-6mm) |
+| M3 10mm | 4 | ----for vertical support and custom mount | 1.6 | 6.4 | 0.0768 | [Link](https://onlyscrews.in/products/phillips-csk-m3-x-10mm-pack-of-20) |
 | M2 Screws | 8 | --------- | 2.6 | 20.8 | 0.2496 | [Link](https://onlyscrews.in/products/m2-x-5mm-hex-allen-socket-head-ss-304-screw-dia-2mm-length-5mm) |
+| 3.5mm Self Tapping Screw | 4 | ---for extruder and bottom y axis part. | 1.6 | 6.4 | 0.0768 | [Link](https://onlyscrews.in/products/no-63-5mm-x-13mm-phillips-csk-ss-304-self-tapping-wood-screw) |
 | Compression Spring | 4 | -----for bed assembly | 6 | 24 | 0.288 | [Link](https://onlyscrews.in/products/od-6mm-free-length-15mm-wire-dia-0-8mm-compression-spring-stainless-steel-304) |
 | M4 20mm Screw | 4 | -----for bed assembly | 3.2 | 12.8 | 0.1536 | [Link](https://onlyscrews.in/products/m4-x-20mm-hex-bolt-ss304-dia-4mm-length-20mm) |
 | M4 Hex Nut | 4 | ----for bed assembly | 1.6 | 6.4 | 0.0768 | [Link](https://onlyscrews.in/products/m4-nylon-hex-nut-dia-4mm) |
@@ -128,7 +131,7 @@ python -m pip install -r requirements.txt
 
 **Total Shipping Costs (INR):** 149
 
-**Total Cost (USD):** 108.2656 
+**Total Cost (USD):** 108.1192 
 
 
    <h1> Credits </h1>
